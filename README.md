@@ -133,7 +133,4 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 ### ⭐ **Don’t forget to star the repo if you find it useful!** ⭐
 ```markdown
 
-```
 
-This README is organized with clear sections, visually enhanced using emojis, and includes all necessary details to make the repository appealing and user-friendly. Let me know if further updates are needed! 😊
-```
